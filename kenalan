@@ -1,0 +1,7 @@
+var nama:
+nama=prompt('boleh tau siapa nama anda ?');
+if(nama){
+    alert('apa kabar'+nama+ saya javascript, senang berkenalan)
+}else{
+    alert(hhmm sepertinya anda tidak mau berkenalan dengan saya)
+}
